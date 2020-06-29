@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://${DOWNLOAD_PATH}/iNode.ipa</string>
+					<string>https://github.com/dataspeaks2020/VPNClientForIOS/blob/master/iNode_MC_7.3.16_iOS/iNode.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://${DOWNLOAD_PATH}/icon512.png</string>
+					<string>https://github.com/dataspeaks2020/VPNClientForIOS/blob/master/iNode_MC_7.3.16_iOS/icon512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://${DOWNLOAD_PATH}/icon57.png</string>
+					<string>https://github.com/dataspeaks2020/VPNClientForIOS/blob/master/iNode_MC_7.3.16_iOS/icon57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
